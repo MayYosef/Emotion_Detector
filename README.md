@@ -2,7 +2,7 @@
  An application that receives an audio file from the user and classifies it as their emotion
 <hr>
 
-<img src="https://github.com/MayYosef/Emotion_Detector/blob/master/images/1.png" width="50%" /><br>
+<img src="https://github.com/MayYosef/Emotion_Detector/blob/master/images/1.png" width="65%" /><br>
 
 <h4>This project is part of our final project as part of our "Deep Learning" specialization. <br>
 In this project we created an app that accessed every user, <br>
