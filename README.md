@@ -17,8 +17,8 @@ In addition, in this way we can classify emotion no matter what language the sen
 The code shown is the code of the final application with the specific model we chose to put behind it [classified only 4 classes]<br>
 in the "Architectures" folder you can find all models and experiments.
 
-The models were written in Python,
-The app using FLASK technology
+The models were written in Python,<br>
+The app using FLASK technology<br>
 (And HTML, CSS, Bootstrap design)
 <hr>
 <h3>Features:</h3>
