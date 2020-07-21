@@ -67,6 +67,9 @@ Each uses different tools.<br>
 
 <h4>1. VGG & transfer learning-</h4>
 
+<ins>Accuracy for 4 classes: 66.44% </ins>
+<ins>Accuracy for 4 classes: 53.37% </ins>
+
 <h4>2. LSTM (Long Shory-Term Memory)- </h4> 
 
 LSTM (Long Short Term Memory) is a special type of RNN network,<br> 
